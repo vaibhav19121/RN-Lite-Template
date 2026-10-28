@@ -1,0 +1,10 @@
+{
+  "name": "rn-lite-template",
+  "version": "0.1.0",
+  "description": "Lightweight React Native 0.88 template: floating tab bar, themed styles, axios + React Query, zustand + MMKV.",
+  "license": "MIT",
+  "files": [
+    "template/*",
+    "template.config.js"
+  ]
+}
